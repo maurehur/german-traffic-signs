@@ -1,0 +1,7 @@
+ .DS_Store
+.vscode
+__pycache__
+.ipynb_checkpoints
+.directory
+data
+data_downloader
